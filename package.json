@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My Test Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "nada"
+  },
+  "repository": {
+    "type": "git",
+    "url": "myapp"
+  },
+  "author": "dean",
+  "license": "ISC"
+}
